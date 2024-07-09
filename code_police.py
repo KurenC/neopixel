@@ -3,7 +3,7 @@ import board
 import neopixel
 pixel_pin = board.GP18
 
-num_pixels = 150
+num_pixels = 50
 
 ORDER = neopixel.GRBW
 
